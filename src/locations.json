@@ -1,0 +1,17 @@
+[
+  { "city": "Europe / London", "zone": "Europe/London" },
+  { "city": "America / New York", "zone": "America/New_York" },
+  { "city": "America / Los Angeles", "zone": "America/Los_Angeles" },
+  { "city": "America / Sao Paulo", "zone": "America/Sao_Paulo" },
+  { "city": "Europe / Paris", "zone": "Europe/Paris" },
+  { "city": "Africa / Cairo", "zone": "Africa/Cairo" },
+  { "city": "Africa / Johannesburg", "zone": "Africa/Johannesburg" },
+  { "city": "Asia / Dubai", "zone": "Asia/Dubai" },
+  { "city": "Asia / Tokyo", "zone": "Asia/Tokyo" },
+  { "city": "Asia / Singapore", "zone": "Asia/Singapore" },
+  { "city": "Asia / Shanghai", "zone": "Asia/Shanghai" },
+  { "city": "Asia / Kolkata", "zone": "Asia/Kolkata" },
+  { "city": "Australia / Sydney", "zone": "Australia/Sydney" },
+  { "city": "Australia / Adelaide", "zone": "Australia/Adelaide" },
+  { "city": "Pacific / Auckland", "zone": "Pacific/Auckland" }
+]
