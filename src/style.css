@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --font-mono: "Patrick Hand SC", monospace;
+  --color-bermuda: #1d1d1d;
+  --color-grey: #adb5bd;
+  --color-white: #f9fafb;
+}
