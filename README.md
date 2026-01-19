@@ -2,6 +2,8 @@
 
 A sleek, responsive world clock built with **Vite**, **Tailwind CSS v4**, and **Day.js**. This project features real-time timezone switching, persistent user preferences via LocalStorage, and a high-precision "snapping" clock heartbeat.
 
+![Screeshot](./Screeshot.png)
+
 ## ✨ Features
 
 - **Real-Time Sync:** High-precision clock that "snaps" to the system second for perfect accuracy.
